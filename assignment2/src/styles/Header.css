@@ -1,0 +1,29 @@
+.HD {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 30px 30px 60px 30px;
+    background-color: #f2f2f2;
+}
+
+.HD h1 {
+    font-size: 28px;
+}
+
+.HD h2 {
+    font-size: 22px;
+    font-weight: normal;
+}
+
+.contact {
+    text-align: right;
+}
+
+.contact p {
+    margin-bottom: 3px;
+}
+
+.contact a {
+    text-decoration: none;
+    color: #0073e6;
+}
